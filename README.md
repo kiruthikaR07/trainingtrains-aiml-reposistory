@@ -79,10 +79,10 @@ This repository contains my learning journey, practice exercises, internship tas
 ## Progress
 - [x] Environment Setup
 - [x] Jupyter Notebook Configuration
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Data Preprocessing
-- [ ] EDA
+- [x ] NumPy
+- [x ] Pandas
+- [ x] Data Preprocessing
+- [x ] EDA
 - [ ] Machine Learning Models
 - [ ] Deep Learning Models
 - [ ] AI Projects
